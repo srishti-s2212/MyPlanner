@@ -1,0 +1,54 @@
+.logo-icon{
+    float: left;
+    background-color:#e7e9f0; 
+    font-size: 02em;
+    height: 10vmin;
+    width: 08vmin;
+    margin: 10px 10px 10px 10px ;
+    padding: 5px 5px 5px 5px ;
+  }
+  
+  .head-container {
+    background: #182266;
+    min-height: 15vh;
+    font-size: calc(10px + 2vmin);
+  }
+
+  .head-text{
+    position: relative;
+    font-size: 20px;
+    font-family: inherit;
+    color: white;
+    left: 10px;
+  }
+  
+  .subtitle{
+    position: relative;
+    font-size: 15px;
+    color: white;
+    font-style: italic;
+    font-weight: lighter;
+    left: 10px;
+  }
+
+
+  .user-photo{
+    float: right;
+    display: flex;
+    flex-direction: row-reverse;
+    height: 08vmin;
+    width: 08vmin;
+    background-color:#e7e9f0;
+    margin: 10px 10px 10px 10px ;
+  }
+  
+  .para{
+    display: flex;
+    flex-direction: row-reverse;
+    align-content:space-around;
+    position:relative;
+    color: white;
+    font-size: 12px;
+    }
+
+  

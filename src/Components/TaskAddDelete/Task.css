@@ -1,0 +1,98 @@
+body {
+    /* background: #e2f5f8; */
+    font-family: "Montserrat", sans-serif;
+    /* font-size: 20px; */
+  }
+  
+  .input-text {
+    display: inline;
+    width: 18%; 
+    line-height: 20px;
+    border-top-color: black; 
+    background-color:honeydew;
+    border: black;
+    border-radius: 0.4rem;
+    padding: 12px;
+  }
+    
+  .add-btn {
+    color: #fff !important;
+    text-decoration: none;
+    background: #039e1c;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 0.4rem;
+    display: inline-block;
+    border: none;
+  }
+  
+
+  .list ul li {
+    display: block;
+    position: relative;
+    width: 25%; 
+    text-decoration: none;
+    color: #000000;
+    background-color: #ffffff;
+    line-height: 25px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #cccccc;
+    padding: 10px;
+    box-shadow: 0 5px 05px 0 rgba(141, 140, 140, 0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+  .list ul li button {
+    position: absolute;
+    right: 0%;
+    background:#ec2b35;
+    color: #fff !important;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 05px;
+    border-radius: 0.4rem;
+    display: inline-block;
+  }
+/* 
+  .list ul li button {
+    display: inline-block;
+    position: fixed;
+    left: 20%;
+    background: #ec2b35;
+    color: #fff !important;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 0.4rem;
+    border: none;
+  } */
+
+
+  .app-title {
+    text-align: center;
+    color: #fff;
+    font-size: 70px;
+  }
+  ul {
+    /* remove default padding and margin from ul*/
+    margin: 0px;
+    padding: 0px;
+  }
+ 
+  
+  .container {
+    color: #fff;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .crossed-line {
+    text-decoration: line-through;
+}
+
+.line {
+  text-decoration: line-through;
+
+}

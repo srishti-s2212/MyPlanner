@@ -1,0 +1,5 @@
+.group-filter{
+    display: flex;
+    flex-direction: row-reverse;
+    float: right;
+   }
